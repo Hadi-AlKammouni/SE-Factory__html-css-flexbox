@@ -83,3 +83,25 @@
     border-width: 0.5px;
    }
 /*-----------------------------------------------*/
+/*STATISTICS*/
+.stats {  
+    justify-content: space-around;
+    display: flex;
+    text-align: center;
+    margin-top: 3%;
+    padding-left: 10%;
+    padding-right: 10%;   
+}
+.stats-minor-heading{
+    
+    font-size: 200%;
+}
+.stats-main-heading{
+    color: #18ea19;
+    font-size: 400%;
+    margin-bottom: 10%;
+}
+#globalrec{
+    width:25%;   
+}
+/*-----------------------------------------------*/
