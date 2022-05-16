@@ -278,3 +278,17 @@
     justify-content: center;
 }
 /*-----------------------------------------------*/
+/*F-PARTNERS*/
+.f-partners1{
+    font-size: 300%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.f-partners2{
+    display: flex;
+    justify-content: center;  
+}
+.f-partners2-b{
+    width: 85%
+}
+/*-----------------------------------------------*/
