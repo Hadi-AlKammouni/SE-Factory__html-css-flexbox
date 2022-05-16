@@ -240,3 +240,41 @@
     width: 56%;
 }
 /*-----------------------------------------------*/
+/*MEDIA*/
+.media1{
+    background-color: rgb(233, 233, 233);
+    font-size: 300%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.media2{
+    display: flex;
+    background-color:rgb(233, 233, 233);
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+}
+.media2-a{
+    flex: 25%;  
+}
+.media2-b{
+    width: 100%;
+    align-content: center;
+    justify-content: space-around;
+}
+.media3{
+    display: flex;
+    background-color: rgb(233, 233, 233);
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 3%;
+}
+.media3-c{
+    flex: 25%;
+}
+.media3-d{
+    width: 100%;
+    align-content: center;
+    justify-content: center;
+}
+/*-----------------------------------------------*/
