@@ -164,4 +164,37 @@
     width: 100%;
 }
 /*-----------------------------------------------*/
+/*SUBSCRIBE*/
+.subscribe-a{
+    font-size: 200%;
+    padding-top: 5%;
 }
+.subscribe2-b{
+    font-size: 200%;
+    padding-bottom: 2.5%;    
+}
+/*-----------------------------------------------*/
+    /*FOOTER*/
+.footer{
+    margin-top: 10%;
+    padding-bottom: 5%;
+    flex-direction: column;
+
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+}
+.footer-copyright{
+    padding: 0% 20% 5% 20%;  
+}
+.footer-policy{
+    width:100%;
+    font-size: 80%;
+    margin-bottom: 5%;
+}
+#social-icons{
+    width: 100%;
+    padding-left: 80%;
+}
+}
+/*-----------------------------------------------*/
