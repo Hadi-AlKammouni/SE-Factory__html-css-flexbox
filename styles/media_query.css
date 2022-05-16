@@ -139,4 +139,29 @@
     margin-bottom: 5%;
 }
 /*-----------------------------------------------*/
+    /*F-PARTNERS*/
+.f-partners1{
+    font-size: 200%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.f-partners2{
+    margin-bottom: 5%;
+}
+/*-----------------------------------------------*/
+/*S-PARTNERS*/
+.s-partners1{
+    font-size: 200%;
+    padding-top: 2.5%;
+    padding-bottom: 5%;
+}
+.s-partners2{
+    width: 100%;
+    flex-direction: column;
+}
+
+.strategicimage-b{
+    width: 100%;
+}
+/*-----------------------------------------------*/
 }
