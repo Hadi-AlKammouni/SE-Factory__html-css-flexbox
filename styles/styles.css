@@ -297,3 +297,23 @@
     margin:2.5% 5% 2.5% 5%;
 }
 /*-----------------------------------------------*/
+/*S-PARTNERS*/
+.s-partners1{
+    font-size: 300%;
+    padding-bottom: 3%;
+}
+.s-partners2{
+    display: flex;
+    margin-right: 10%;
+    padding-bottom: 2%;
+}
+.s-partners2-a{
+    flex: 25%;  
+    padding-bottom: 3%;
+}
+.strategicimage-b{
+    width: 140%;
+    align-content: center;
+    justify-content: space-around; 
+}
+/*-----------------------------------------------*/
