@@ -105,3 +105,41 @@
     width:25%;   
 }
 /*-----------------------------------------------*/
+/*SKILLS*/
+.skills { 
+    padding-top: 7%; 
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 5%; 
+}
+.leftskills{
+    flex-basis: 50%;
+}
+.skillsimage{
+    padding-left: 15%;
+    width:95%;
+}
+.rightskills{
+    flex-basis: 50%;
+    width: 100%;
+    font-size: 100%;
+    align-items: flex-start;
+}
+.rightskills-para1{
+    font-size: 300%;
+    margin-bottom: 5%;
+}
+.rightskills-para2{
+    font-size: 170%;
+    margin-left: 5%;
+    margin-bottom: 2.5%;
+    width: 70%;  
+}
+#rightskills-link{
+    color:#18ea19;
+    font-size: 170%;
+    margin-left: 5%;
+    border-bottom-style:solid ;
+    border-width: 0.5px;
+}
+/*-----------------------------------------------*/
