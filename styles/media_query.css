@@ -112,4 +112,31 @@
     margin-bottom: 4%;
 }
 /*-----------------------------------------------*/
+    /*TARGET*/
+.target1{
+    width: 100%;
+    padding: 0% 7% 3% 7%;
+}
+/*-----------------------------------------------*/
+/*MEDIA*/
+.media1{
+    font-size: 200%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.media2{
+    flex-direction: column;
+}
+.media2-b{
+    width: 100%;
+    margin-bottom: 5%;
+}
+.media3{
+    flex-direction: column;
+}
+.media3-d{
+    width: 100%;
+    margin-bottom: 5%;
+}
+/*-----------------------------------------------*/
 }
