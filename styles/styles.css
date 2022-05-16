@@ -348,3 +348,29 @@
     border-radius: 5%;
 }
 /*-----------------------------------------------*/
+/*FOOTER*/
+.footer{
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+}
+.footer-copyright{
+    color: white;
+    padding-right: 10%;
+    font-size: 115%;
+}
+.footer-policy{
+    width:15%;
+}
+#footer-link{
+    justify-content: space-between;
+    color:#18ea19;
+    width: 50%;
+    font-size: 150%;
+    margin-left: 5%;
+    border-bottom-style:solid ;
+    border-width: 0.5px;
+}
+/*-----------------------------------------------*/
