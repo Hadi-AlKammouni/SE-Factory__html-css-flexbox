@@ -172,3 +172,41 @@
     height: 50%;
 }
 /*-----------------------------------------------*/
+/*GRADUATE*/
+.graduate{
+    padding-top: 5%; 
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 5%;
+}
+.leftgraduate{
+    flex-basis: 50%;
+}
+.graduateimage{
+    padding-left: 15%;
+    width:95%;
+}
+.rightgraduate{
+    flex-basis: 50%;
+    width: 100%;
+    font-size: 100%;
+    align-items: flex-start;
+}
+.rightgraduate-para1{
+    font-size: 300%;
+}
+.rightgraduate-para2{
+    padding-top: 5%;
+    font-size: 170%;
+    margin-left: 5%;
+    margin-bottom: 2.5%;
+    width: 70%;
+}
+#rightgraduate-link{
+    color:#18ea19;
+    font-size: 170%;
+    margin-left: 5%;
+    border-bottom-style:solid ;
+    border-width: 0.5px;
+}
+/*-----------------------------------------------*/
