@@ -210,3 +210,23 @@
     border-width: 0.5px;
 }
 /*-----------------------------------------------*/
+/*RPs*/
+.rp1{
+    display: flex;
+    flex-direction: column;
+}
+.rp1-a{
+    margin-bottom: 1%;
+    font-size: 230%;
+    width: 55%;
+    margin-left: 22.5%;
+}
+.rp1-b{
+    margin-bottom: 2%;
+    font-size: 155%;
+}
+.rp2{
+    align-self: center;
+    width: 86%;
+}
+/*-----------------------------------------------*/
