@@ -78,4 +78,38 @@
     padding-bottom: 5%;
 }
 /*-----------------------------------------------*/
+    /*GRADUATE*/
+.graduate{
+    flex-direction: column;
+}
+.graduateimage{
+    padding: 2% 6% 3% 6%;
+    width:100%;
+}
+.rightgraduate{
+    font-size: 80%;
+    padding-left: 7%;
+}
+.rightgraduate-para2{
+    width: 78%;
+}
+/*-----------------------------------------------*/  
+    /*RPs*/
+.rp1{
+    display: flex;
+    flex-direction: column;
+}
+.rp1-a{
+    width: 100%;
+    margin-left: 0%;
+    font-size: 165%;
+    padding: 0% 8% 0% 8%;
+    margin-top: 8%;  
+    margin-bottom: 5%;
+}
+.rp1-b{
+    font-size: 128%;
+    margin-bottom: 4%;
+}
+/*-----------------------------------------------*/
 }
