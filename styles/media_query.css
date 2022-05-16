@@ -7,3 +7,34 @@
 }
 /*-----------------------------------------------*/
 }
+    /*TOP-PAGE*/
+.se-logo{
+    margin-left: 5%;
+    width: 8%;
+    padding-top: 5%;
+}
+.ranking{
+    width: 100%;
+    font-size: 50%;
+}
+.empowering{
+    font-size: 90%;  
+}
+/*-----------------------------------------------*/    
+    /*STATS*/
+.stats {  
+    flex-direction: column;        
+}
+.stats-minor-heading{   
+    font-size: 150%;
+}
+.stats-main-heading{
+    font-size: 200%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+}
+#globalrec{
+    width:100%; 
+    margin-bottom: 8%  
+}
+/*-----------------------------------------------*/
