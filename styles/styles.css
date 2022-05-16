@@ -143,3 +143,32 @@
     border-width: 0.5px;
 }
 /*-----------------------------------------------*/
+/*PROGRAMS*/
+.programs1{
+    background-color: #18ea19;
+    color: white;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    font-size: 350%;
+}
+.programs2{
+    display: flex;
+    justify-content: space-around;
+    background-color: #18ea19;  
+    padding-bottom: 5%;
+}
+.left-programs2{
+    flex-basis: 50%;
+    height: 50%;
+}
+#fsw{
+    width:55%;
+}
+#fcs{
+    width:55%;
+}
+.right-programs{
+    flex-basis: 50%;
+    height: 50%;
+}
+/*-----------------------------------------------*/
