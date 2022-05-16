@@ -1,0 +1,9 @@
+/*RESPONSIVENESS*/
+
+    /*MEDIA-QUERY*/
+@media screen and (max-width: 768px){
+.upright{
+        display: none;
+}
+/*-----------------------------------------------*/
+}
